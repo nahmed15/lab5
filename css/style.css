@@ -36,6 +36,12 @@ table {
   height: 60px;
   position: relative;
 }
+th{
+  text-align: center;
+  table-layout: fixed;
+  height: 60px;
+  border-radius: 4px;
+}
 td{
   text-align: center;
   table-layout: fixed;
