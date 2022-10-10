@@ -29,6 +29,9 @@ table {
 .neptune{
   background-color: rgb(144, 12, 63)
 }
+.leftcol{
+  background-color: rgb(250, 219, 216)
+}
 .image{
   height: 60px;
   position: relative;
