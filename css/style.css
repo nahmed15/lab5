@@ -26,16 +26,16 @@ table {
   margin-right: auto;
 }
 .mercury{
-  background-color: #900C3F(120,120,120,0.5);
+  background-color: rgb(205, 92, 92);
 }
 .earth{
-  background-color: rgba(14,161,51,0.5)
+  background-color: rgb(205, 92, 92)
 }
 .mars{
-  background-color: rgba(171,59,44,0.5)
+  background-color: rgb(205, 92, 92)
 }
 .neptune{
-  background-color: rgba(36,19,214,0.5)
+  background-color: rgb(205, 92, 92)
 }
 .image{
   height: 60px;
@@ -48,7 +48,7 @@ td{
   border-radius: 5px;
 }
 .unit{
-  color: #3870ff;
+  color: #900C3F;
   font-size: 70%;
 }
 
