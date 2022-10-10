@@ -1,0 +1,58 @@
+body{
+  background-color: black;
+  background-image: url("../images/background.jpg");
+}
+h1{
+  font-family: Jost, sans-serif;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
+table {
+  font-family: Jost, sans-serif;
+  font-size: 20px;
+  border-spacing: 20px;
+  table-layout: fixed;
+  width: 100%;
+  max-width: 800px;
+  color: white;
+  position: relative;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mercury{
+  background-color: rgba(120,120,120,0.5);
+}
+.earth{
+  background-color: rgba(14,161,51,0.5)
+}
+.mars{
+  background-color: rgba(171,59,44,0.5)
+}
+.neptune{
+  background-color: rgba(36,19,214,0.5)
+}
+.image{
+  height: 60px;
+  position: relative;
+}
+td{
+  text-align: center;
+  table-layout: fixed;
+  height: 60px;
+  border-radius: 5px;
+}
+.unit{
+  color: #3870ff;
+  font-size: 70%;
+}
+
+.super {
+  font-size: 70%;
+  vertical-align: 6px;
+}
